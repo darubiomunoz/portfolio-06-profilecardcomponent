@@ -1,8 +1,10 @@
 import './App.scss';
+import ProfileCard from './components/ProfileCard';
 
-function App() {
+const App = () => {
   return (
-    <div>
+    <div className="App">
+      <ProfileCard />
     </div>
   );
 }
