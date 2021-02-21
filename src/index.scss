@@ -1,9 +1,22 @@
+@use './variables.scss' as var;
 @import-normalize;
-@import "./Variables.scss";
+
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-size: 62.5%;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: var.$color-base;
+}
+
+.root {
+  height: inherit;
+  display: flex;
+  align-items: center;
 }

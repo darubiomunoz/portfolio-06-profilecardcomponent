@@ -1,12 +1,17 @@
 $layout-mobile: 375px;
-$layout-desktop: 1440;
+$layout-desktop: 1440px;
 
 $color-base: hsl(185, 75%, 39%);
 $color-option2: hsl(229, 23%, 23%);
 $color-option3: hsl(227, 10%, 46%);
 $color-option4: hsl(0, 0%, 59%);
+$color-option5: #FFF;
+$color-option6: #000;
 
 $font-size-base: 1.8rem;
 $font-family-base: 'Kumbh sans', sans-serif;
 $font-weight-normal: 400;
 $font-weight-bold: 700;
+
+$border-radius-card: 1.5rem;
+$border-radius-image: 50%;

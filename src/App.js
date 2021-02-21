@@ -1,9 +1,10 @@
 import './App.scss';
+
 import ProfileCard from './components/ProfileCard';
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="container container-xxl">
       <ProfileCard />
     </div>
   );
