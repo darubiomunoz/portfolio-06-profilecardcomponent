@@ -19,5 +19,17 @@ body {
 .root {
   height: inherit;
   display: flex;
-  align-items: center;
+  align-items: center; 
+}
+
+.pattern-top {
+  width: var.$pattern-size;
+  top: -(var.$pattern-size / 2);
+  left: -(var.$pattern-size / 2);
+}
+
+.pattern-bottom {
+  width: var.$pattern-size;
+  bottom: -(var.$pattern-size / 2);
+  right: -(var.$pattern-size / 2);
 }
