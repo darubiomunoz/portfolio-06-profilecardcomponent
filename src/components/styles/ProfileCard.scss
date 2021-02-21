@@ -8,27 +8,54 @@
     border: none;
     border-radius: var.$border-radius-card;
     width: 100%;
-}
 
-.card-img-top {
-    object-fit: cover;
-    object-position: center;
-    box-sizing: border-box;
-    border-top-left-radius: var.$border-radius-card;
-    border-top-right-radius: var.$border-radius-card;
-}
+    &-img-top {
+        object-fit: cover;
+        object-position: center;
+        box-sizing: border-box;
+        border-top-left-radius: var.$border-radius-card;
+        border-top-right-radius: var.$border-radius-card;
+    }
 
-.card-img-user {
-    left: calc(calc(330px / 2) - calc(82.5px / 2));
-    top: calc(132px - calc(82.5px / 2));
-}
+    &-img-user {
+        left: calc(calc(330px / 2) - calc(82.5px / 2));
+        top: calc(132px - calc(82.5px / 2));
+    }
 
-.card-body {
-    height: 13rem;
-    flex-direction: column;
-    justify-content: flex-end;
-}
+    &-body {
+        height: 14rem;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
 
-.card-stats {
-    height: 8rem;
+    &-title {
+        font-size: var.$font-size-base;
+        font-weight: var.$font-weight-bold;
+    }
+
+    &-age,
+    &-location {
+        font-size: var.$font-size-base;
+        font-weight: var.$font-weight-normal;
+        color: var.$color-option4;
+    }
+
+    &-stats {
+        height: 8rem;
+    }
+
+    .col {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    &-photos,
+    &-likes,
+    &-followers {
+        color: var.$color-option4;
+    }
+
+    &-figure {
+        font-weight: var.$font-weight-bold;
+    }
 }
