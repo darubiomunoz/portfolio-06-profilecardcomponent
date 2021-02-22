@@ -57,13 +57,13 @@
 ![Product Name Screen Shot][product-screenshot]
 ![Product Name Screen Shot][product-screenshot-frontend]
 
-Challenge to develop a profile card component in reactJS as base technology :smile:
+Challenge from [frontmentor.io](https://www.frontendmentor.io/challenges) to develop a profile card component, I chose to code this project in reactJS as base technology because in want to specialize on it. :smile:
 
-It was my first time developing something in reactJS, which was really nice and challenging because I had some issues that took me long hours to solve but at last I was able to solve them by searching and reading documentation and blogs. :stars:
+It was my first time developing something in reactJS, which was really nice and challenging because I had some issues that took me long hours to solve but at last I was able to find solutions to all them by searching and reading documentation and blogs. :stars:
 
 ### Built With :computer:
 
-This compoonent is developed with:
+This component is developed with:
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) _version: 5_
 * [SASS](https://sass-lang.com/guide) _version: 1.32.8_
@@ -78,32 +78,33 @@ This compoonent is developed with:
 <!-- GETTING STARTED -->
 ## 2. Getting Started :fire:
 
-To edit or do your on smart contract you can use Remix IDE on the browser.
-In the web app you can create, compile, deploy and interact with smart contracts.
+If you want to check out the component the component deployed with github pages visit the link below.
 
-* Remix IDE
+* Link to the project:
   ```sh
-  https://remix.ethereum.org/
+  https://darubiomunoz.github.io/portfolio-06-profilecardcomponent/]
   ```
 
 ### Installation  :exclamation:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/darubiomunoz/smartcontract-simplestorage.git
+   git clone https://github.com/darubiomunoz/portfolio-06-profilecardcomponent.git
    ```
    ```sh
-   git clone git@github.com:darubiomunoz/smartcontract-simplestorage.git
+   git clone git@github.com:darubiomunoz/portfolio-06-profilecardcomponent.git
    ```
 
+2. Run the react development server:
+    ```sh
+    npm run start
+    ```
 <!-- USAGE EXAMPLES -->
 ## 3. Usage :star2:
 
-This smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing technology.
+Feel free to download the code if you need a template for a profile component and modify it as you want to fit your project, just remember to install all the required dependencies to run it properly.
 
-Study the code try to understand it, and of course try to code your on script too, using this as example.
-
-_For more examples, please refer to the [Example in the Documentation](https://docs.soliditylang.org/en/v0.8.1/solidity-by-example.html)_
+_For more knowledge, please refer to the [Documentation](https://reactjs.org/)_
 
 <!-- CONTRIBUTING -->
 ## 4. Contributing :tada:
@@ -120,7 +121,6 @@ Contributions are what make the open source community such an amazing place to b
 ## 5. Status :memo:
 
 The project is `Finished`.
-_There's a chance I'll make the testing of the smart contract with Truffle._
 
 <!-- LICENSE -->
 ## 6. License :memo:
@@ -131,15 +131,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 7. Contact :e-mail:
 
 Diego Rubio
-[linkedin](https://www.linkedin.com/in/darmdev/)
+[Linkedin](https://www.linkedin.com/in/darmdev/)
 darubiomunoz@gmail.com
 
-Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.git](https://github.com/darubiomunoz/smartcontract-simplestorage.git)
+Project Link: [https://github.com/darubiomunoz/portfolio-06-profilecardcomponent.git](https://github.com/darubiomunoz/portfolio-06-profilecardcomponent.git)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 8. Acknowledgements :clap:
-* [Remix IDE](https://remix.ethereum.org/)
-* [Solidity](https://docs.soliditylang.org/en/v0.8.1/)
+
+* [Stiven Jimenez](https://github.com/stivenjimenez) - Thanks for answering question and help!
+* [Front-end Mentor](https://www.frontendmentor.io/challenges)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [SASS](https://sass-lang.com/guide)
+* [SASS loader](https://www.npmjs.com/package/sass-loader)
+* [Bootstrap](https://getbootstrap.com/)
+* [React](https://reactjs.org/)
+* [React DOM](https://reactjs.org/docs/react-dom.html)
+* [React scripts](https://create-react-app.dev/docs/available-scripts/)
+* [Normalize](https://necolas.github.io/normalize.css/)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
 :copyright: _Diego Rubio - 2021_
 
@@ -147,7 +157,7 @@ Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.git](
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/darubiomunoz/smartcontract-print/blob/master/LICENSE
+[license-url]: https://github.com/darubiomunoz/portfolio-06-profilecardcomponent/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/darmdev/
 [product-screenshot]: ./src/assets/screenshot.png/
