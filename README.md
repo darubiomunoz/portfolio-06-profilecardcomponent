@@ -13,14 +13,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/darubiomunoz/smartcontract-print">
-    <img src="./src/images/smart-contracts-logo.svg" alt="Logo" width="200" height="200">
+  <a href="https://github.com/darubiomunoz/portfolio-06-profilecardcomponent">
+    <img src="./src/assets/readme-logo.svg" alt="Logo" width="200" height="200">
   </a>
-  <h1 align="center">Simple Storage Smart Contract</h1>
+  <h1 align="center">Profile Card Component</h1>
   <p align="center">
-    Blockchain
+    ReactJS
     <br />
-    <a href="https://docs.soliditylang.org/en/v0.8.1/"><strong>Explore the solidity's docs »</strong></a>
+    <a href="https://reactjs.org/docs/getting-started.html"><strong>Explore the ReactJS's docs »</strong></a>
     <br />
     <br />
   </p>
@@ -55,17 +55,25 @@
 ## 1. About The Project :round_pushpin:
 
 ![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot-frontend]
 
-This smart contract has only one functionality to store a uint type variable :smile:
+Challenge to develop a profile card component in reactJS as base technology :smile:
 
-If you're interested in smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation. :stars:
+It was my first time developing something in reactJS, which was really nice and challenging because I had some issues that took me long hours to solve but at last I was able to solve them by searching and reading documentation and blogs. :stars:
 
 ### Built With :computer:
 
-To develop this simple smart contract I used the standard tools used in the blockchain industry nowadays.
+This compoonent is developed with:
 
-* [Remix](https://remix.ethereum.org/)
-* [Solidity](https://docs.soliditylang.org/en/v0.8.1/) _version: 0.8.1+commit.df193b15_
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) _version: 5_
+* [SASS](https://sass-lang.com/guide) _version: 1.32.8_
+* [SASS loader](https://www.npmjs.com/package/sass-loader) _version: 11.0.1_
+* [Bootstrap](https://getbootstrap.com/) _version: 4.6.0_
+* [React](https://reactjs.org/) _version: 17.0.1_
+* [React DOM](https://reactjs.org/docs/react-dom.html) _version: 17.0.1_
+* [React scripts](https://create-react-app.dev/docs/available-scripts/) _version: 4.0.2_
+* [Normalize](https://necolas.github.io/normalize.css/) _version: 11.0.0_
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) _version: ECMAScript 6+_
 
 <!-- GETTING STARTED -->
 ## 2. Getting Started :fire:
@@ -142,4 +150,5 @@ Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.git](
 [license-url]: https://github.com/darubiomunoz/smartcontract-print/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/darmdev/
-[product-screenshot]: ./src/screenshot/code.png
+[product-screenshot]: ./src/assets/screenshot.png/
+[product-screenshot-frontend]: ./src/assets/design/desktop-design.jpg
