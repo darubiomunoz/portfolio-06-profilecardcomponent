@@ -1,70 +1,145 @@
-# Getting Started with Create React App
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/darubiomunoz/smartcontract-print">
+    <img src="./src/images/smart-contracts-logo.svg" alt="Logo" width="200" height="200">
+  </a>
+  <h1 align="center">Simple Storage Smart Contract</h1>
+  <p align="center">
+    Blockchain
+    <br />
+    <a href="https://docs.soliditylang.org/en/v0.8.1/"><strong>Explore the solidity's docs »</strong></a>
+    <br />
+    <br />
+  </p>
+</p>
 
-In the project directory, you can run:
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#">Status</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-### `npm start`
+<!-- ABOUT THE PROJECT -->
+## 1. About The Project :round_pushpin:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Product Name Screen Shot][product-screenshot]
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This smart contract has only one functionality to store a uint type variable :smile:
 
-### `npm test`
+If you're interested in smart contracts I invite you to study the code and try to replicate by yourself with the help of the solidity documentation. :stars:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Built With :computer:
 
-### `npm run build`
+To develop this simple smart contract I used the standard tools used in the blockchain industry nowadays.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [Remix](https://remix.ethereum.org/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.1/) _version: 0.8.1+commit.df193b15_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- GETTING STARTED -->
+## 2. Getting Started :fire:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To edit or do your on smart contract you can use Remix IDE on the browser.
+In the web app you can create, compile, deploy and interact with smart contracts.
 
-### `npm run eject`
+* Remix IDE
+  ```sh
+  https://remix.ethereum.org/
+  ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Installation  :exclamation:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/darubiomunoz/smartcontract-simplestorage.git
+   ```
+   ```sh
+   git clone git@github.com:darubiomunoz/smartcontract-simplestorage.git
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- USAGE EXAMPLES -->
+## 3. Usage :star2:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This smart contract is made as part of a collection of smart contracts made in Solidity to practice coding and gain experience in this amazing technology.
 
-## Learn More
+Study the code try to understand it, and of course try to code your on script too, using this as example.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_For more examples, please refer to the [Example in the Documentation](https://docs.soliditylang.org/en/v0.8.1/solidity-by-example.html)_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- CONTRIBUTING -->
+## 4. Contributing :tada:
 
-### Code Splitting
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### Analyzing the Bundle Size
+<!-- Status -->
+## 5. Status :memo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+The project is `Finished`.
+_There's a chance I'll make the testing of the smart contract with Truffle._
 
-### Making a Progressive Web App
+<!-- LICENSE -->
+## 6. License :memo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Distributed under the MIT License. See `LICENSE` for more information.
 
-### Advanced Configuration
+<!-- CONTACT -->
+## 7. Contact :e-mail:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Diego Rubio
+[linkedin](https://www.linkedin.com/in/darmdev/)
+darubiomunoz@gmail.com
 
-### Deployment
+Project Link: [https://github.com/darubiomunoz/smartcontract-simplestorage.git](https://github.com/darubiomunoz/smartcontract-simplestorage.git)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!-- ACKNOWLEDGEMENTS -->
+## 8. Acknowledgements :clap:
+* [Remix IDE](https://remix.ethereum.org/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.1/)
 
-### `npm run build` fails to minify
+:copyright: _Diego Rubio - 2021_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/darubiomunoz/smartcontract-print/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/darmdev/
+[product-screenshot]: ./src/screenshot/code.png

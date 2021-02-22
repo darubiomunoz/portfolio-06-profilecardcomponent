@@ -18,8 +18,8 @@
     }
 
     &-img-user {
-        left: calc(calc(330px / 2) - calc(82.5px / 2));
-        top: calc(132px - calc(82.5px / 2));
+        left: (330px / 2) - (82.5px/ 2);
+        top: 132px - (82.5px / 2);
     }
 
     &-body {
@@ -59,3 +59,11 @@
         font-weight: var.$font-weight-bold;
     }
 }
+
+@media (max-width: var.$layout-mobile) {
+    .card-img-user {
+        left: (250px / 2) - (62.5px / 2);
+        top: (100px - (62.5px / 2));
+    }
+}
+
