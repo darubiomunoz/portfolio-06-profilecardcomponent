@@ -134,7 +134,7 @@ Diego Rubio
 [Linkedin](https://www.linkedin.com/in/darmdev/)
 darubiomunoz@gmail.com
 
-Project Link: [https://github.com/darubiomunoz/portfolio-06-profilecardcomponent.git](https://github.com/darubiomunoz/portfolio-06-profilecardcomponent.git)
+Project Link: [https://darubiomunoz.github.io/portfolio-06-profilecardcomponent](https://darubiomunoz.github.io/portfolio-06-profilecardcomponent)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 8. Acknowledgements :clap:
