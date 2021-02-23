@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-06-profilecardcomponent/static/css/main.38b4a1f4.chunk.css",
+    "main.js": "/portfolio-06-profilecardcomponent/static/js/main.e1d5ba29.chunk.js",
+    "main.js.map": "/portfolio-06-profilecardcomponent/static/js/main.e1d5ba29.chunk.js.map",
+    "runtime-main.js": "/portfolio-06-profilecardcomponent/static/js/runtime-main.8762693c.js",
+    "runtime-main.js.map": "/portfolio-06-profilecardcomponent/static/js/runtime-main.8762693c.js.map",
+    "static/css/2.658248ec.chunk.css": "/portfolio-06-profilecardcomponent/static/css/2.658248ec.chunk.css",
+    "static/js/2.4638aa93.chunk.js": "/portfolio-06-profilecardcomponent/static/js/2.4638aa93.chunk.js",
+    "static/js/2.4638aa93.chunk.js.map": "/portfolio-06-profilecardcomponent/static/js/2.4638aa93.chunk.js.map",
+    "index.html": "/portfolio-06-profilecardcomponent/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/portfolio-06-profilecardcomponent/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.38b4a1f4.chunk.css.map": "/portfolio-06-profilecardcomponent/static/css/main.38b4a1f4.chunk.css.map",
+    "static/js/2.4638aa93.chunk.js.LICENSE.txt": "/portfolio-06-profilecardcomponent/static/js/2.4638aa93.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-bottom.a34eb319.svg": "/portfolio-06-profilecardcomponent/static/media/bg-pattern-bottom.a34eb319.svg",
+    "static/media/bg-pattern-card.b61daebd.svg": "/portfolio-06-profilecardcomponent/static/media/bg-pattern-card.b61daebd.svg",
+    "static/media/bg-pattern-top.dae77b1f.svg": "/portfolio-06-profilecardcomponent/static/media/bg-pattern-top.dae77b1f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8762693c.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.4638aa93.chunk.js",
+    "static/css/main.38b4a1f4.chunk.css",
+    "static/js/main.e1d5ba29.chunk.js"
+  ]
+}
