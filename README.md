@@ -139,7 +139,7 @@ Project Link: [https://github.com/darubiomunoz/portfolio-06-profilecardcomponent
 <!-- ACKNOWLEDGEMENTS -->
 ## 8. Acknowledgements :clap:
 
-* [Stiven Jimenez](https://github.com/stivenjimenez) - Thanks for answering question and help!
+* [Stiven Jimenez](https://github.com/stivenjimenez) - Thanks for answering my questions and the help!
 * [Front-end Mentor](https://www.frontendmentor.io/challenges)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [SASS](https://sass-lang.com/guide)
