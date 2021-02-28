@@ -72,7 +72,7 @@ This component is developed with:
 * [React](https://reactjs.org/) _version: 17.0.1_
 * [React DOM](https://reactjs.org/docs/react-dom.html) _version: 17.0.1_
 * [React scripts](https://create-react-app.dev/docs/available-scripts/) _version: 4.0.2_
-* [Normalize](https://necolas.github.io/normalize.css/) _version: 11.0.0_
+* [Normalize](https://necolas.github.io/normalize.css/) _version: 8.0.1_
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) _version: ECMAScript 6+_
 
 <!-- GETTING STARTED -->
